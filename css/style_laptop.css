@@ -11,3 +11,7 @@ body {
   height: 90vh;
   width: 99.6vw;
 }
+
+video source {
+  width: 10px;
+}
